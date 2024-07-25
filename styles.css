@@ -1,0 +1,31 @@
+h1 {
+    background-color: #26619C;
+    color: white;
+    text-align: center;
+    margin: 20px;
+}
+
+p {
+    color: black;
+}
+button {
+    display: block;
+    margin-bottom: 10px;
+    background-color: beige;
+    text-decoration: none;
+}
+
+div {
+    background-color: #26619C;
+    color: white;
+    position: absolute;
+  bottom: 8px;
+  right: 16px;
+    Margin: 20px;
+    padding-right: 780px;
+}
+
+#sushi2, #yummy, #toasty {
+   display: block;
+   margin: auto;
+}
